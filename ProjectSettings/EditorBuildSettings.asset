@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/startMenu.unity
+    guid: 5cac208fa09391e4a906a2e49d6b2181
+  - enabled: 1
+    path: Assets/Scenes/Menu2.unity
+    guid: 1fedf36bce4e93d4b8f53eed0273bb1c
+  - enabled: 1
+    path: Assets/Scenes/tutorialsMenu.unity
+    guid: 4d1e0304b1d71f2498f03b4c2621fc3a
+  - enabled: 1
+    path: Assets/Scenes/tuto1.unity
+    guid: e5f92a046b363c544a19840c31ad3080
+  - enabled: 1
+    path: Assets/Scenes/tuto1 1.unity
+    guid: e7aa6d83d2bf9a14588e333af6915fd4
+  - enabled: 1
+    path: Assets/Scenes/level1 win.unity
+    guid: 9e027283122c1ec4183b55c3df2d47ec
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/level1 lose.unity
+    guid: b283f009f815eaa4fa535bc15a9c0401
+  - enabled: 1
+    path: Assets/Scenes/doMenu.unity
+    guid: 009c24418b3197342ab58bbbcc98ddbe
+  - enabled: 1
+    path: Assets/Scenes/Tuto3.unity
+    guid: 977a3cee537020240878e917a2e35009
+  - enabled: 1
+    path: Assets/Scenes/Tuto3 1.unity
+    guid: 388da2ee13212254dbd7855192de9ef0
+  - enabled: 1
+    path: Assets/Scenes/tuto31.unity
+    guid: e388d1b225dbef24abf93058182a108a
+  - enabled: 1
+    path: Assets/Scenes/tuto22 1.unity
+    guid: ad54689720c6b81499cb7d34a725b20f
+  - enabled: 1
+    path: Assets/Scenes/tuto22.unity
+    guid: cff8831771719bf4c892b97e10b2eb96
+  - enabled: 1
+    path: Assets/Scenes/tuto31 win.unity
+    guid: 244eb2a444eb5a04085651933d262612
+  - enabled: 1
+    path: Assets/Scenes/tuto22 win.unity
+    guid: 285ad0b5317dda04da78f7910f971c3f
+  - enabled: 1
+    path: Assets/Scenes/Tuto4.unity
+    guid: 72325b2be04c8fc46807d58c009fcb49
+  - enabled: 1
+    path: Assets/Scenes/Tuto4 win.unity
+    guid: 3e4b1d1e5829cc347b3e6d96b0e5a305
+  - enabled: 1
+    path: Assets/Scenes/Tuto4 1.unity
+    guid: b19e06897c75c0f4e8ccdba2508141ae
+  - enabled: 1
+    path: Assets/Scenes/do1.unity
+    guid: 09e850481d18df14cb7d8f7f6409e0d8
+  - enabled: 1
+    path: Assets/Scenes/do1 1.unity
+    guid: 5f7b5e69030714c40815c0e5d1dc0358
+  - enabled: 1
+    path: Assets/Scenes/do1 win.unity
+    guid: 7bb5502db3aa96948acf0458d7a1c9fb
+  - enabled: 1
+    path: Assets/Scenes/func1 1.unity
+    guid: 95f667fef8b5f524782902d6eff0ec4e
+  - enabled: 1
+    path: Assets/Scenes/func1 2.unity
+    guid: caaed3a0f5e67a74aa74073fe77c7f80
+  - enabled: 1
+    path: Assets/Scenes/func1.unity
+    guid: f62d7b38a68009d45bbe0d76b51ef917
+  - enabled: 1
+    path: Assets/Scenes/tuto22 lose.unity
+    guid: 5c006d8accc134c47924d9e48d8d5ade
+  - enabled: 1
+    path: Assets/Scenes/tuto31 lose.unity
+    guid: 3d4c459963764b146bfd9e65e5eb6a5f
+  - enabled: 1
+    path: Assets/Scenes/do1 lose.unity
+    guid: 8acc371b039d51a4293d62fbd96cdd0d
+  - enabled: 1
+    path: Assets/Scenes/Tuto4 lose.unity
+    guid: a6d2e2276869d954599531bd8584067d
+  - enabled: 1
+    path: Assets/Scenes/do2.unity
+    guid: 9f5ebf662c30f2e4086452836f2af4a7
+  - enabled: 1
+    path: Assets/Scenes/do2 win.unity
+    guid: 907ffb70912bcb343b20a56dbd8b4c86
+  - enabled: 1
+    path: Assets/Scenes/do2 lose.unity
+    guid: d6dce6d41d9c28247b715f0ce7e98ae4
+  - enabled: 1
+    path: Assets/Scenes/do4.unity
+    guid: 1a72fe5130b46d6498108a3a1b44b34f
+  - enabled: 1
+    path: Assets/Scenes/do4 win.unity
+    guid: 5a7b2b09fd0f35b46be941e63e820a14
+  - enabled: 1
+    path: Assets/Scenes/do4 loseee.unity
+    guid: ae1826df354883c4eb600dd49a799a78
+  - enabled: 1
+    path: Assets/Scenes/func1 win.unity
+    guid: ab10155e6ab1f2a409bd50a2b871df58
+  - enabled: 1
+    path: Assets/Scenes/func1 lose.unity
+    guid: 9f29ffa1f31188844a4a4a87db7b9aa1
+  - enabled: 1
+    path: Assets/Scenes/do3.unity
+    guid: c9897598354164240be958f81115540f
+  - enabled: 1
+    path: Assets/Scenes/do3 win.unity
+    guid: 592f04eabbc501d4f886a7f1dba10e23
+  - enabled: 1
+    path: Assets/Scenes/do3 lose.unity
+    guid: a28520240cb350c468e37cc139aaa90a
+  - enabled: 1
+    path: Assets/Scenes/func2.unity
+    guid: de9ce7ce55ba48647ac528ba1224fdaa
+  - enabled: 1
+    path: Assets/Scenes/func2 win.unity
+    guid: 8fe62d4b2b0aeab4ba2d695453fe721c
+  - enabled: 1
+    path: Assets/Scenes/func2 lose.unity
+    guid: 4087126bea6d9c340ab3cfab0cc97b12
+  - enabled: 1
+    path: Assets/Scenes/func3.unity
+    guid: 257102acc6b370643b3a024acffd3614
+  - enabled: 1
+    path: Assets/Scenes/func3 win.unity
+    guid: e52f584e310b0f642baa50185dad938e
+  - enabled: 1
+    path: Assets/Scenes/func3 lose.unity
+    guid: 8f02d895e0d415945bf3dd7305886322
+  - enabled: 1
+    path: Assets/Scenes/func4 1.unity
+    guid: 7c9c5257991efd44f88c809e659f2817
+  - enabled: 1
+    path: Assets/Scenes/func4.unity
+    guid: 7039cac20286c9c418d892fd1719f142
+  - enabled: 1
+    path: Assets/Scenes/func4 win.unity
+    guid: b1fe6fb74b7014b4594eeac337d11926
+  - enabled: 1
+    path: Assets/Scenes/func4 lose.unity
+    guid: 47822c76f999f7049909a673fbd8034b
+  - enabled: 1
+    path: Assets/Scenes/if1 1.unity
+    guid: 17077e25a7267ed41af27fd2f65b8a94
+  - enabled: 1
+    path: Assets/Scenes/if1.unity
+    guid: e872080c2527aa34b9db9744e8681d86
+  - enabled: 1
+    path: Assets/Scenes/if1 win.unity
+    guid: e7a41efed4fc5cc47bcd2f0291209217
+  - enabled: 1
+    path: Assets/Scenes/if1 lose.unity
+    guid: faf366faf3d52d4458e662e7fe463802
+  - enabled: 1
+    path: Assets/Scenes/if2 1.unity
+    guid: 3a3817ad7ea4a6f4888b03e5bcd02b03
+  - enabled: 1
+    path: Assets/Scenes/if2.unity
+    guid: 62844793ddccecf40bbb0da125f99236
+  - enabled: 1
+    path: Assets/Scenes/if2 win.unity
+    guid: a96b0fea7cf4ad64e9fbcdabc0ee4039
+  - enabled: 1
+    path: Assets/Scenes/if2 lose.unity
+    guid: ad1fcff98d1b31d489e97856448e396d
+  - enabled: 1
+    path: Assets/Scenes/if3.unity
+    guid: fc1296320db07304bbd4732409ca5220
+  - enabled: 1
+    path: Assets/Scenes/if3 1.unity
+    guid: 4c9d3a4c34e7760478f36f2c2172ea61
+  - enabled: 1
+    path: Assets/Scenes/if3 win.unity
+    guid: ec6eb91db5534a848a2b3503473a0f7c
+  - enabled: 1
+    path: Assets/Scenes/if3 lose.unity
+    guid: 851237c604ce7754085dc61171850f34
+  - enabled: 1
+    path: Assets/Scenes/ifMenu.unity
+    guid: 0244e19a099d9e748b2bd30791472dbf
+  - enabled: 1
+    path: Assets/Scenes/funcMenu.unity
+    guid: 618a84b351089ad478784f361e342d05
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
